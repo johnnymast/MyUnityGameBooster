@@ -14,9 +14,16 @@
   "upmCi": {
     "footprint": "37d998612dbe6eb9eaa7197cb3384c0c7ebafcad"
   },
+  "samples": [
+    {
+      "displayName": "Scene starter kit",
+      "description": "This will add a MainMenu/GameOver and CreditScreen",
+      "path": "Samples~/DefaultScenes"
+    }
+  ],
   "repository": {
-    "url": "https://github.cds.internal.unity3d.com/unity/com.unity.ide.rider.git",
+    "url": "https://github.com/johnnymast/MyUnityGameBooster.git",
     "type": "git",
-    "revision": "abb44f053e9a41d2e00e149e32a19bcec76e98b4"
-  } 
+    "revision": "8b55d85ebb120103c1db0aa2341daf2b5e36f6b5"
+  }
 }
